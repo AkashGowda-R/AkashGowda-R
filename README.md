@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Akash Gowda👋</h1>
 <h3 align="center">A Passionate Developer </h3>
 
-- 🖥I'm a Computer Science Student
+- 🖥I'm a Computer Science graduate
 
 - 📊I've worked as a Data Analyst at [Ogi Technologies](https://www.ogit.in/)
 
