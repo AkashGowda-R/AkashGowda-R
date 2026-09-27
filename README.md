@@ -5,7 +5,7 @@
 
 - 📊I've worked as a Data Analyst at [Ogi Technologies](https://www.ogit.in/)
 
-- 📜Check out my Resume here - [My Resume]()
+- 📜Check out my Resume here - [My Resume](https://drive.google.com/file/d/1S4WgG9sGVQhbh5vU4TcySOTb7lMpX_fG/view?usp=sharing)
 
 - ➡My LinkedIn profile - www.linkedin.com/in/akashgowdaa
 
